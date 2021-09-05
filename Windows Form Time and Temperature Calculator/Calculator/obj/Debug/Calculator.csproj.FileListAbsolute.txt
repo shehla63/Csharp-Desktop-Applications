@@ -1,0 +1,22 @@
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Noman Aijaz\source\repos\Calculator\Calculator\obj\Debug\Calculator.Temperature.resources
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.Temperature.resources
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Github Projects_Respos\Csharp_.NETFramework\Windows Form Time and Temperature Calculator\Calculator\obj\Debug\Calculator.pdb
