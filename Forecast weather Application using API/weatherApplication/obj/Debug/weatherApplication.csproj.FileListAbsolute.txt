@@ -1,0 +1,10 @@
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\bin\Debug\weatherApplication.exe.config
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\bin\Debug\weatherApplication.exe
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\bin\Debug\weatherApplication.pdb
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.csprojAssemblyReference.cache
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.Form1.resources
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.Properties.Resources.resources
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.csproj.GenerateResource.cache
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.exe
+C:\Users\Noman Aijaz\source\repos\weatherApplication\weatherApplication\obj\Debug\weatherApplication.pdb
