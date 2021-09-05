@@ -1,0 +1,84 @@
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csprojAssemblyReference.cache
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayersInfo.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayerMode.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmComputer.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.Properties.Resources.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmSinglePlayerInfo.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.GenerateResource.cache
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.CoreCompileInputs.cache
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmMainGame.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe.config
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.pdb
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.exe
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssign\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.pdb
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe.config
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.pdb
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csprojAssemblyReference.cache
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmMainGame.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayersInfo.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayerMode.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmComputer.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.Properties.Resources.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmSinglePlayerInfo.resources
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.GenerateResource.cache
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.CoreCompileInputs.cache
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.exe
+C:\Users\fawad\Desktop\BSIT\Year 3\Application Programming\FawadIjazAssign\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.pdb
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe.config
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.pdb
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csprojAssemblyReference.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmMainGame.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayersInfo.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayerMode.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmComputer.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.Properties.Resources.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmSinglePlayerInfo.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.GenerateResource.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.CoreCompileInputs.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.exe
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.pdb
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe.config
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.pdb
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csprojAssemblyReference.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmMainGame.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayersInfo.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayerMode.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmComputer.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.Properties.Resources.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmSinglePlayerInfo.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.GenerateResource.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.CoreCompileInputs.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.exe
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt2\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.pdb
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe.config
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.pdb
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csprojAssemblyReference.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmMainGame.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayersInfo.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayerMode.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmComputer.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.Properties.Resources.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmSinglePlayerInfo.resources
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.GenerateResource.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.CoreCompileInputs.cache
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.exe
+C:\Users\Noman Aijaz\Desktop\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.pdb
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe.config
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.exe
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\bin\Debug\FawadIjazAssigt.pdb
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csprojAssemblyReference.cache
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmMainGame.resources
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayersInfo.resources
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmPlayerMode.resources
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmComputer.resources
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.Properties.Resources.resources
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.frmSinglePlayerInfo.resources
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.GenerateResource.cache
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.csproj.CoreCompileInputs.cache
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.exe
+F:\projects\C#\FawadIjazAssigt22\FawadIjazAssigt\FawadIjazAssigt\obj\Debug\FawadIjazAssigt.pdb
