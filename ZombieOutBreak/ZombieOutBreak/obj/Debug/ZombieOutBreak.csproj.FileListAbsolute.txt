@@ -1,0 +1,10 @@
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\bin\Debug\ZombieOutBreak.exe.config
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\bin\Debug\ZombieOutBreak.exe
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\bin\Debug\ZombieOutBreak.pdb
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.csprojAssemblyReference.cache
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.Form1.resources
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.Properties.Resources.resources
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.csproj.GenerateResource.cache
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.csproj.CoreCompileInputs.cache
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.exe
+G:\Github Projects_Respos\Csharp_.NETFramework\ZombieOutBreak\ZombieOutBreak\obj\Debug\ZombieOutBreak.pdb
